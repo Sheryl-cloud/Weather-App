@@ -29,4 +29,4 @@ The Django Weather App allows users to search for any city and get real-time wea
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/django-weather-app.git
+   git clone https://github.com/Sheryl-cloud/Weather-App.git
